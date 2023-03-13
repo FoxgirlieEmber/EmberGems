@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "embergems:jade"
+    }
+  },
+  "pattern": [
+    "E E",
+    "EEE",
+    "EEE"
+  ],
+  "result": {
+    "item": "embergems:jade_chestplate"
+  }
+}

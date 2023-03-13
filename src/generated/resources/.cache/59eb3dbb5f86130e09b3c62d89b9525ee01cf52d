@@ -1,0 +1,14 @@
+// 1.19.3	2023-03-08T13:02:00.8453053	Loot Tables
+8c8e23089b61d115971d508b6332fd6b5c17180d data/embergems/loot_tables/blocks/deepslate_opal_ore.json
+d56ac6195b9671a4cd2d414347597f21f91f1998 data/embergems/loot_tables/blocks/deepslate_ruby_ore.json
+d36ead6ad81d913f0c737d7f3ae2a11e5cd34a3f data/embergems/loot_tables/blocks/deepslate_sapphire_ore.json
+29358eb12130c90d9152a66f58509e2772aa69d2 data/embergems/loot_tables/blocks/jade_block.json
+b39108d7fef231464b0fddd09f622a4376c6e261 data/embergems/loot_tables/blocks/nether_jade_ore.json
+f5ae1eb728bde43b7b63ab2c61058f47cab8bb27 data/embergems/loot_tables/blocks/opal_block.json
+0307b893d148d403b112ea879c4f59cca70cfd6b data/embergems/loot_tables/blocks/opal_ore.json
+8e7a2ba0458956b377efb1c478cda83a13e299b6 data/embergems/loot_tables/blocks/pearly_sand.json
+cbafc3b32c3d5b5bd6dc093b7dcc134cd4fc22c6 data/embergems/loot_tables/blocks/pearl_block.json
+16532cbaa32b9a0f3ac0b9a0878d01c7cf3b3d7f data/embergems/loot_tables/blocks/ruby_block.json
+d00fbc7b910dddb2ba56cbd332a4325a9d3e9158 data/embergems/loot_tables/blocks/ruby_ore.json
+8ff5e3b4957d5d02e39a159ab18d98fd06edb896 data/embergems/loot_tables/blocks/sapphire_block.json
+019eb81a406acd9d3085bd85466b04cda1372533 data/embergems/loot_tables/blocks/sapphire_ore.json

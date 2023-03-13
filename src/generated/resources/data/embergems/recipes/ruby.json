@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "embergems:ruby_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "embergems:ruby"
+  }
+}

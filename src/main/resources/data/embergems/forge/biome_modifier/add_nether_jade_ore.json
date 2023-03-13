@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#minecraft:is_nether",
+  "features": "embergems:jade_placed",
+  "step": "underground_ores"
+}

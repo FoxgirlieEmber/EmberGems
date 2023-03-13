@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "embergems:sapphire"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "E",
+    "E",
+    "I"
+  ],
+  "result": {
+    "item": "embergems:sapphire_sword"
+  }
+}

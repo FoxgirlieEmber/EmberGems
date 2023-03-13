@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "embergems:pearl_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "embergems:pearl"
+  }
+}

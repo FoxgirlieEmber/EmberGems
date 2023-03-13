@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "embergems:jade"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "EE",
+    "I ",
+    "I "
+  ],
+  "result": {
+    "item": "embergems:jade_hoe"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "embergems:deepslate_opal_ore",
+    "embergems:opal_ore",
+    "embergems:opal_block",
+    "embergems:pearly_sand",
+    "embergems:pearl_block",
+    "embergems:deepslate_sapphire_ore",
+    "embergems:sapphire_ore",
+    "embergems:sapphire_block",
+    "embergems:nether_jade_ore",
+    "embergems:jade_block"
+  ]
+}

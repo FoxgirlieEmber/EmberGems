@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "embergems:opal"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "EEE",
+    " I ",
+    " I "
+  ],
+  "result": {
+    "item": "embergems:opal_pickaxe"
+  }
+}

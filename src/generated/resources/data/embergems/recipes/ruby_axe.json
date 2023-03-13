@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "E": {
+      "item": "embergems:ruby"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "pattern": [
+    "EE",
+    "IE",
+    "I "
+  ],
+  "result": {
+    "item": "embergems:ruby_axe"
+  }
+}
